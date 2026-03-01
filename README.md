@@ -1,6 +1,6 @@
 # Hola a todos mi Nombre es Victor Alberto Rodriguez 👋
 ## Freelancer, Diseñador, Estudiante
-![Alt text](pixelart_emote.png)
+![Alt text](pixerart_emote.png)
 <!--
 **RM24004/RM24004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
